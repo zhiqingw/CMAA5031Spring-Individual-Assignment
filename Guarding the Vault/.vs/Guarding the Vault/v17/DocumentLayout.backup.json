@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|C:\\Users\\Asher\\Desktop\\Guarding the Vault\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|c:\\users\\asher\\desktop\\guarding the vault\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|C:\\Users\\Asher\\Desktop\\Guarding the Vault\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|C:\\Users\\Asher\\Desktop\\Guarding the Vault\\assets\\scripts\\shot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|C:\\Users\\Asher\\Desktop\\Guarding the Vault\\assets\\scripts\\enemydestory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemydestory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|C:\\Users\\Asher\\Desktop\\Guarding the Vault\\assets\\scripts\\enemiesappearmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemiesappearmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|C:\\Users\\Asher\\Desktop\\Guarding the Vault\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|C:\\Users\\Asher\\Desktop\\Guarding the Vault\\assets\\scripts\\enemyhealthmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEE3AE-4441-E686-6DD8-76A42B534F77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealthmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shot.cs",
+              "DocumentMoniker": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\Shot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shot.cs",
+              "ToolTip": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\Shot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:39:22.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:39:22.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:39:21.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:39:20.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyHealthManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\EnemyHealthManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealthManagement.cs",
+              "ToolTip": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\EnemyHealthManagement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHealthManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:39:20.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyDestory.cs",
+              "DocumentMoniker": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\EnemyDestory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyDestory.cs",
+              "ToolTip": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\EnemyDestory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyDestory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:39:19.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemiesAppearManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\EnemiesAppearManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemiesAppearManagement.cs",
+              "ToolTip": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\EnemiesAppearManagement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemiesAppearManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:39:18.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Asher\\Desktop\\Guarding the Vault\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:39:17.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
